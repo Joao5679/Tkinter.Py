@@ -1,3 +1,4 @@
+#Tkinter Modelo Base...
 from tkinter import *
 
 app = Tk()
